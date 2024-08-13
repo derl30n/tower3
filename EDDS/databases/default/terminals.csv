@@ -1,0 +1,5 @@
+Terminal name,allowed,Terminal gate road names (you dont need gate_ prefix for this list)
+Terminal1,"RAA,DEN,LAW,MAX,TGB","9,10,11,12,13,14,15,16,17,18,19"
+Terminal2,"TAB,FRT,CBA,BTV,RAA,ANG,UAX,PAV,VAL","24,25,26,27,28,29,30,31,32,33,34,35,36,41,42,44,45,46,47,50,51,52,53,54,55,56,60,61,62,63,64,71,72,73,74,75"
+GA,"DEN,Catch all(GA)","p11,p12,p13,p14,p15,p16,p21,p22,p23,p24,p25,p26,p27,p901,p902b"
+Cargo,"EMF,Catch all(cargo)","r100,r101,r102,r103,r104,r105,r106"

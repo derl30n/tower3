@@ -1,0 +1,7 @@
+Terminal name,allowed,Terminal gate road names (you dont need gate_ prefix for this list)
+TerminalA,"DEN,FRT,MAX,TAB,VAL","A1,A2,A3,A4,A5,A6,A7,A8,A9"
+TerminalB,"DEN,FRT,MAX,TAB,VAL","B1,B2,B3,B4,B5"
+TerminalC,Catch all (GA),"C1,C2,C3,C4"
+TerminalD,"Catch all (Cargo),EMF","D1,D2,D3,D4,D5,D6"
+TerminalG,Catch all (GA),"G2,G6,G8,G11,G12,G13,G14,G15,G16"
+TerminalM,Catch all (GA),"M1,M2,M3,M4,M5,M6,M7"
