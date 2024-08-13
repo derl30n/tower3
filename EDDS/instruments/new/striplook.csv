@@ -4,21 +4,20 @@ HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Size=30%
-Next=RUNWAY 07/25 ARRIVAL
-Stripblock=Time,Callsign,BTN","Header=RUNWAY 07/25 ARRIVAL
+Stripblock=Callsign,Time,BIN","Header=RUNWAY 07/25 ARRIVAL
 HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Next=TAXI
 Runway=07,25
 Size=70%
-Stripblock=Time,ARB,Callsign,BIN","Header=TAXI
+Stripblock=Callsign,Time,ARB,BTN","Header=TAXI
 HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Runway=07,25
 Size=25%
-Stripblock=Time,ARB,Callsign,BIN","Header=STRIP STORAGE
+Stripblock=Callsign,Time,ARB,BIN","Header=STRIP STORAGE
 HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
@@ -29,34 +28,33 @@ HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Size=100%
-Stripblock=Time,Callsign"
-"Header=ARRIVALS
+Stripblock=Callsign,Time","Header=ARRIVALS
 HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Type=ArrivalStart
 Size=70%
 Next=RUNWAY 07/25 ARRIVAL
-Stripblock=Time,Callsign,BTN","Header=RUNWAY 07/25 DEPARTURE
+Stripblock=Callsign,Time,BTN","Header=RUNWAY 07/25 DEPARTURE
 HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Next=BIN
 Runway=07,25
 Size=30%
-Stripblock=Time,ARB,Callsign,BTN","Header=APRON TRAFFIC - STARTING / PUSHING
+Stripblock=Callsign,Time,ARB,BTN","Header=APRON TRAFFIC - STARTING / PUSHING
 HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Next=TAXI
 Runway=07,25
 Size=45%
-Stripblock=Time,ARB,Callsign,BTN","Header=STANDING BY
+Stripblock=Callsign,Time,ARB,BTN","Header=STANDING BY
 HeaderBG=18,18,18
 BGColor=60,60,60
 TextColor=194,194,194
 Size=30%
-Stripblock=Time,ARB,Callsign,BIN",
+Stripblock=Callsign,Time,ARB,BIN",
 ,,,"Header=CLEARANCE DELIVERED DEP
 HeaderBG=18,18,18
 BGColor=60,60,60
@@ -64,7 +62,7 @@ TextColor=194,194,194
 Type=DepartureStart
 Size=45%
 Next=APRON TRAFFIC - STARTING / PUSHING
-Stripblock=Time,Callsign,BTN",
+Stripblock=Callsign,Time,BTN",
 "Colors
 BGColor=60,60,60
 BGArrival=124,158,205
