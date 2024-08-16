@@ -1,0 +1,7 @@
+*
+*.png
+!jobs.csv
+!.gitignore
+!Airports/**/databases/
+!Airports/**/instruments/
+!Airports/!.csv
