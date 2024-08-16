@@ -2,6 +2,6 @@
 *.png
 !jobs.csv
 !.gitignore
+!Airports/*.csv
 !Airports/**/databases/
 !Airports/**/instruments/
-!Airports/!.csv
