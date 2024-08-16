@@ -10,7 +10,7 @@ BGColor=48,48,48
 TextColor=194,194,194
 Next=TAXI
 Runway=07,25
-Size=70%
+Size=50%
 Stripblock=Callsign,Time,ARB,BTN","Header=TAXI
 HeaderBG=18,18,18
 BGColor=48,48,48
@@ -43,7 +43,7 @@ BGColor=48,48,48
 TextColor=194,194,194
 Next=BIN
 Runway=07,25
-Size=30%
+Size=50%
 Stripblock=Callsign,Time,ARB,BTN","Header=APRON TRAFFIC - STARTING / PUSHING
 HeaderBG=18,18,18
 BGColor=48,48,48
