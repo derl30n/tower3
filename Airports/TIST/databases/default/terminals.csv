@@ -1,0 +1,4 @@
+Terminal name,allowed,Terminal gate road names (you dont need gate_ prefix for this list)
+Main Terminal,Catch all,"1,2,3,4,5,6,7,8,9,10,11,12,13"
+GA,Catch all(GA),"ga1,ga2,ga3,ga4,ga5,ga6,ga7,ga8,ga9,ga10,ga11,ga12,ga13,ga14,ga15,ga16,ga17,ga18,ga19,ga20,ga21,ga22,ga23,ga24"
+Cargo,Catch all(cargo),"c1,c2,c3"

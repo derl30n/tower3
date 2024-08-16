@@ -1,0 +1,60 @@
+"Width=26%","Width=37%","Width=37%","Width=15%"
+"Header=TWR ARR (PENDING)
+Type=ArrivalStart
+HeaderBG=60,60,60
+TextColor=255,255,255
+Size=50%
+Next=ARRIVAL 10,ARRIVAL 28
+Stripblock=Time,Callsign,BTN","Header=DEPARTURE 10
+HeaderBG=60,60,60
+TextColor=255,255,255
+Next=BIN
+Runway=10
+Size=50%
+Stripblock=Time,ARB,Callsign,BTN","Header=ARRIVAL 10
+HeaderBG=60,60,60
+TextColor=255,255,255
+Next=BIN
+Runway=10
+Size=50%
+Stripblock=Time,ARB,Callsign,BIN","Header=BIN
+HeaderBG=60,60,60
+TextColor=255,255,255
+Size=100%
+Stripblock=Time,Callsign"
+"Header=GND DEP (PENDING)
+Type=DepartureStart
+HeaderBG=60,60,60
+TextColor=255,255,255
+Size=50%
+Next=DEPARTURE 10, DEPARTURE 28
+Stripblock=Time,Callsign,BTN","Header=DEPARTURE 28
+HeaderBG=60,60,60
+TextColor=255,255,255
+Next=BIN
+Runway=28
+Size=50%
+Stripblock=Time,ARB,Callsign,BTN","Header=ARRIVAL 28
+HeaderBG=60,60,60
+TextColor=255,155,155
+Next=BIN
+Runway=28
+Size=50%
+Stripblock=Time,ARB,Callsign,BIN",
+,,,
+"Colors
+BGColor=210,210,210
+BGArrival=191,152,133
+BGDeparture=114,144,169
+BGGAArrival=191,152,133
+BGGADeparture=114,144,169
+TextBGArrival=191,152,133
+TextBGDeparture=114,144,169
+TextBGGAArrival=191,152,133
+TextBGGADeparture=114,144,169
+TextArrival=0,0,0
+TextDeparture=0,0,0
+TextGAArrival=0,0,0
+TextGADeparture=0,0,0
+GridColor=80,80,80
+",,,
