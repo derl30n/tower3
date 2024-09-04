@@ -1,8 +1,16 @@
 /*
+*.airport
 *.png
 *.DS_Store
+*.txt
 !jobs.csv
 !.gitignore
 !Airports/
+Airports/**/database/*
 Airports/**/package.txt
 Airports/**/assets/*
+Airports/airports.csv
+Airports/alphabet.csv
+Airports/base.csv
+Airports/commands_params.csv
+Airports/numbers.csv
