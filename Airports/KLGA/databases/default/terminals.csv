@@ -1,7 +1,0 @@
-Terminal name,allowed,Terminal gate road names (you dont need gate_ prefix for this list)
-TerminalA,Catch all,"a1,a2,a3,a4,a5,a12,a10,a15"
-TerminalB,Catch all,"b14,b15,b16,b17,b18,b19,b20,b21,b22,b23,b25,b26,b27,b28,b29,b30,b41,b42,b43,b44,b45,b46,b47,b48,b49,b50,b51,b52,b53,b55,b56,b57,b58,b59"
-TerminalC,Catch all,"c15,c16,c17,c18,c19,c20,c21,c22,c23,c24,c25,c26,c27,c28,c29,c30,c31,c32,c33,c34"
-TerminalD,Catch all,"d1,d2,d3,d4,d5,d6,d7,d8,d9,d10,d11,d12,d13,d14,d15,d92,d93,d94,d95,d96,d97"
-TerminalGA,"GA, Catch all(cargo)","ga1,ga2,ga3,ga4,ga5"
-TerminalCargo,"GA, Catch all","cargo1,cargo2,cargo3,cargo4,cargo5"
