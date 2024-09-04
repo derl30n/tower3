@@ -4,9 +4,12 @@
 *.DS_Store
 *.txt
 !jobs.csv
+!*.md
 !.gitignore
 !Airports/
-Airports/**/database/*
+!Airports/**/database/*
+Airports/**/database/**/backup/*
+Airports/**/**/default/*
 Airports/**/package.txt
 Airports/**/assets/*
 Airports/airports.csv
