@@ -7,6 +7,7 @@
 !*.md
 !.gitignore
 !Airports/
+!Airports/**/**/**/package.txt
 Airports/**/databases/**/backup/*
 Airports/**/**/default/*
 Airports/**/package.txt
